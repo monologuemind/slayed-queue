@@ -35,6 +35,8 @@ const getGroups = (groupStrings) => {
         names,
       };
     });
+
+  return groups;
 };
 
-getGroups("");
+getGroups();
