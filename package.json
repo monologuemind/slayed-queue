@@ -1,0 +1,26 @@
+{
+  "name": "slayed-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monologuemind/slayed-queue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monologuemind/slayed-queue/issues"
+  },
+  "homepage": "https://github.com/monologuemind/slayed-queue#readme",
+  "dependencies": {
+    "rollup": "^2.69.0"
+  },
+  "devDependencies": {
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
